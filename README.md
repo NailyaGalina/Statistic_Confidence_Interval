@@ -3,7 +3,7 @@
 **Цель:**  
 Даны данные компании из Лондона, которая занимается арендой велосипедов. Необходимо выявить аномалии в аренде велосипедов и разобраться в причинах.
 
-Решение и выводы в файле **(Bike_rental.ipynb)[Bike_rental.ipynb]**  
+Решение и выводы в файле **(Bike_rental.ipynb)[https://github.com/NailyaGalina/Statistic_Confidence_Interval/blob/main/Bike_rental.ipynb]**  
 **Стек:**  
 Python (pandas, numpy, seaborn).
 
